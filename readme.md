@@ -1,6 +1,6 @@
 # Travel Agency Site
 
-Hi! This is a project developed with the intention to praticar HTML and CSS.
+Hi! This is a project developed with the intention to practicing HTML and CSS.
 
 Nice things that could be learned from this project:
 
